@@ -1,0 +1,5 @@
+C:\Users\EASHCS\Documents\GitHub\number-guessing-game\Number Guessing Game\Number Guessing Game\bin\Release\Number Guessing Game.exe
+C:\Users\EASHCS\Documents\GitHub\number-guessing-game\Number Guessing Game\Number Guessing Game\bin\Release\Number Guessing Game.pdb
+C:\Users\EASHCS\Documents\GitHub\number-guessing-game\Number Guessing Game\Number Guessing Game\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\EASHCS\Documents\GitHub\number-guessing-game\Number Guessing Game\Number Guessing Game\obj\x86\Release\Number Guessing Game.exe
+C:\Users\EASHCS\Documents\GitHub\number-guessing-game\Number Guessing Game\Number Guessing Game\obj\x86\Release\Number Guessing Game.pdb
